@@ -18,11 +18,11 @@ function App() {
  // <button onClick={() => removeTask(index)}>Remove</button>
   // };
 
-  function handleKeyPress(event) {
-    if (event.key === 'Enter') {
-      addTask();
-   }
-  }
+  // function handleKeyPress(event) {
+  //   if (event.key === 'Enter') {
+  //     addTask();
+  //  }
+  // }
 
   function toggleDone(event) {
     const target = event.target;
