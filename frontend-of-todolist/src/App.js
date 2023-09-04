@@ -15,7 +15,7 @@ function App() {
   // const removeTask = (index) => {
   //   const updatedTasks = tasks.filter((_, i) => i !== index);
   //   setTasks(updatedTasks);
- // <button onClick={() => removeTask(index)}>Remove</button>
+ // <button onClick={() => removeTask(index)}>Remove</button>   
   // };
 
   // function handleKeyPress(event) {
